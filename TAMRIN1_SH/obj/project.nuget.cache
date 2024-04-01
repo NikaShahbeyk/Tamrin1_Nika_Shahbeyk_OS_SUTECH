@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PtP4UGyL5gSx+RZh8CpCy+BRcUhVD+93b5sGtYGXru1FGjBvGOOYsLRd5HK6vYk45h3IRG5+KbwPuIGHoMOLiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\FinalVersion_OS_Tamrin1_Nika Shahbeyk\\TAMRIN1_SH\\TAMRIN1_SH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
